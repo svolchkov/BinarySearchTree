@@ -1,0 +1,10 @@
+C:\Users\sergeyv\Documents\Visual Studio 2015\Projects\BinarySearchTree\BinarySearchTree\bin\Debug\BinarySearchTree.exe.config
+C:\Users\sergeyv\Documents\Visual Studio 2015\Projects\BinarySearchTree\BinarySearchTree\obj\Debug\BinarySearchTree.csprojResolveAssemblyReference.cache
+C:\Users\sergeyv\Documents\Visual Studio 2015\Projects\BinarySearchTree\BinarySearchTree\obj\Debug\BinarySearchTree.Properties.Resources.resources
+C:\Users\sergeyv\Documents\Visual Studio 2015\Projects\BinarySearchTree\BinarySearchTree\obj\Debug\BinarySearchTree.csproj.GenerateResource.Cache
+C:\Users\sergeyv\Documents\Visual Studio 2015\Projects\BinarySearchTree\BinarySearchTree\bin\Debug\BinarySearchTree.exe
+C:\Users\sergeyv\Documents\Visual Studio 2015\Projects\BinarySearchTree\BinarySearchTree\bin\Debug\BinarySearchTree.pdb
+C:\Users\sergeyv\Documents\Visual Studio 2015\Projects\BinarySearchTree\BinarySearchTree\obj\Debug\BinarySearchTree.exe
+C:\Users\sergeyv\Documents\Visual Studio 2015\Projects\BinarySearchTree\BinarySearchTree\obj\Debug\BinarySearchTree.pdb
+C:\Users\sergeyv\Documents\Visual Studio 2015\Projects\BinarySearchTree\BinarySearchTree\obj\Debug\BinarySearchTree.Form1.resources
+C:\Users\sergeyv\Documents\Visual Studio 2015\Projects\BinarySearchTree\BinarySearchTree\obj\Debug\BinarySearchTree.NodesNumber.resources
